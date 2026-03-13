@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Analyse Prédictive du Diabète - Projet de Science des Données
 
 ## Description du Projet
@@ -148,4 +148,3 @@ nature binaire des données peut masquer certaines informations sur la relation 
 variables. Des analyses futures pourraient bénéficier de l'incorporation de variables continues
 ou de l'élargissement de l'ensemble des données pour inclure des réponses plus détaillées, ce
 qui permettrait une compréhension plus riche des facteurs influençant le risque de diabète.
->>>>>>> 670ce3176ed594aa8ee567e12a9ccdb35733d5ae
